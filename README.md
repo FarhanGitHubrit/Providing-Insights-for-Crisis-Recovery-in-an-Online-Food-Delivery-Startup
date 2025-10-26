@@ -41,12 +41,10 @@ The analysis addresses critical questions based on the available data, including
 The analysis was performed using the following tools and libraries:
 
 * **Language:** Python
-* **Environment:** Jupyter/Google Colab
+* **Environment:** Google Colab
 * **Core Libraries:** Pandas, NumPy
 * **Visualization:** Matplotlib, Seaborn
 * **Machine Learning:** Scikit-learn (`RandomForestClassifier`, `train_test_split`, `classification_report`, `roc_auc_score`)
 
 
 
-4.  **Execute the Notebook:**
-    Open `CodeBasicChallenge_2_python_colab.ipynb` in Jupyter or Google Colab and run the cells sequentially to reproduce the data loading, cleaning, analysis, and modeling steps.
